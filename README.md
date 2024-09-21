@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/sutthasinee-wan/ or sutthasinee.wa@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAGPcMuK5IU/EWiMK0LERD_8VrVoJnNpjg/view?utm_content=DAGPcMuK5IU&utm_campaign=designshare&utm_medium=link&utm_source=editor](https://www.canva.com/design/DAGPcMuK5IU/EWiMK0LERD_8VrVoJnNpjg/view?utm_content=DAGPcMuK5IU&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+- 📄 Know about my experiences https://sutthasinee.my.canva.site/
 
 - ⚡ Fun fact **I am a QA Tester who transitioned from Physics. I hold a Bachelor's degree in Applied Physics, but I love and am passionate about programming. That's why I started learning and working in the field of QA Testing since 2021.**
 
